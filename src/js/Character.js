@@ -6,6 +6,7 @@ export default class Character {
     this.level = 1;
     this.attack = 100;
     this.defence = 100;
+    this.stoned = 0;
   }
 
   levelUp() {

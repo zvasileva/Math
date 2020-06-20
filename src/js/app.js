@@ -34,6 +34,10 @@ console.log(zombie);
 
 const daemon = new Daemon('IvanD', 'Daemon');
 
-console.log(daemon.attack = 5);
+console.log(daemon.stoned = 1);
+
+console.log(daemon);
+
+console.log(daemon.attack = 2);
 
 console.log(daemon);
